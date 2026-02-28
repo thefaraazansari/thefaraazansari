@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/thefaraazansari/thefaraazansari/e90da2208e5e0cf597d52228f1a55fb02f458b10/header.svg" alt=":header:" />
+<img src="https://raw.githubusercontent.com/thefaraazansari/thefaraazansari/c19db9bec691fc6cabf0cadc260991cb68dfd9e3/header.svg" alt=":header:" />
 Frontend Engineer focused on building accessible, scalable, and high-performance web applications.
 
 ---
