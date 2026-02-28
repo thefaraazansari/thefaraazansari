@@ -12,7 +12,7 @@ Frontend Engineer focused on building accessible, scalable, and high-performance
 
 ## 💻 Technologies & Tools
 
-### 🌐 Core Web & Languages
+### ⚛️ Frontend Technologies
 <div>
   <img src="https://skillicons.dev/icons?i=html" height="48" />
   <img width="8" />
@@ -21,77 +21,36 @@ Frontend Engineer focused on building accessible, scalable, and high-performance
   <img src="https://skillicons.dev/icons?i=js" height="48" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="48" />
-</div>
-
-### ⚛️ Frontend Frameworks & Libraries
-<div>
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="48" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=redux" height="48" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=angular" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="48" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=angular" height="48" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=sass" height="48" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=md" height="48" />
 </div>
 
-### 🎨 UI, Styling & Design
+### 🧰 Tools & Workflow
 <div>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="48" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sass" height="48" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=figma" height="48" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=xd" height="48" />
-</div>
-
-### 🧰 Tools & Workflow
-<div>
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="48" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postman" height="48" />
 </div>
 
-## ⭐ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/thefaraazansari/finance-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thefaraazansari&repo=finance-tracker&theme=github_dark" />
-  </a>
-  <a href="https://github.com/thefaraazansari/movie-db">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thefaraazansari&repo=movie-db&theme=github_dark" />
-  </a>
-</p>
-
-## ⭐ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/thefaraazansari/finance-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thefaraazansari&repo=finance-tracker&theme=github_dark" />
-  </a>
-  <br/>
-  <em>Finance Tracker — Personal finance management app</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/thefaraazansari/movie-db">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thefaraazansari&repo=movie-db&theme=github_dark" />
-  </a>
-  <br/>
-  <em>Movie DB — Movie search app using TMDB API</em>
-</p>
-
-## ⭐ Featured Projects
-
-| | |
-|---|---|
-| <a href="https://github.com/thefaraazansari/finance-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thefaraazansari&repo=finance-tracker&theme=github_dark" /></a><br/><sub><b>Finance Tracker</b> — Personal finance management app</sub> | <a href="https://github.com/thefaraazansari/movie-db"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thefaraazansari&repo=movie-db&theme=github_dark" /></a><br/><sub><b>Movie DB</b> — Movie search app using TMDB API</sub> |
-
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=thefaraazansari&theme=github-dark-blue"
     alt="thefaraazansari"
