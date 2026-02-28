@@ -3,14 +3,11 @@ Frontend Engineer focused on building accessible, scalable, and high-performance
 
 ---
 
-## 📄 Resume & Links
-
+### 📄 Resume & Links
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_DRIVE_LINK_HERE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faraazansari)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faraaz.faiz.ansari@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faraazansari)
-
-## 💻 Technologies & Tools
 
 ### ⚛️ Frontend Technologies
 <div>
@@ -48,8 +45,7 @@ Frontend Engineer focused on building accessible, scalable, and high-performance
   <img src="https://skillicons.dev/icons?i=postman" height="48" />
 </div>
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 <p align="left">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=thefaraazansari&theme=github-dark-blue"
