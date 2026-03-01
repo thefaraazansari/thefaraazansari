@@ -15,21 +15,17 @@ Frontend Engineer focused on building accessible, scalable, and high-performance
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=css" height="48" />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=sass" height="48" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="48" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="48" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="48" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redux" height="48" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="48" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="48" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=angular" height="48" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sass" height="48" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=md" height="48" />
 </div>
@@ -44,11 +40,3 @@ Frontend Engineer focused on building accessible, scalable, and high-performance
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postman" height="48" />
 </div>
-
-### 📊 GitHub Stats
-<p align="left">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=thefaraazansari&theme=github-dark-blue"
-    alt="thefaraazansari"
-  />
-</p>
