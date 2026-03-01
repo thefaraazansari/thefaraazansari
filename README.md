@@ -12,7 +12,7 @@ Frontend Engineer focused on building accessible, scalable, and high-performance
  <img width="8" />
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faraazansari)
 
-### ⚛️ Frontend Technologies
+### 💻 Frontend Technologies
 <div>
   <img src="https://skillicons.dev/icons?i=react" height="48" />
   <img width="8" />
