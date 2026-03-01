@@ -5,8 +5,11 @@ Frontend Engineer focused on building accessible, scalable, and high-performance
 
 ### 📄 Resume & Links
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_DRIVE_LINK_HERE)
+ <img width="8" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faraazansari)
+ <img width="8" />
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faraaz.faiz.ansari@gmail.com)
+ <img width="8" />
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faraazansari)
 
 ### ⚛️ Frontend Technologies
